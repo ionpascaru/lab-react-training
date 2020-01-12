@@ -1,4 +1,4 @@
-.card{
+.card {
   width: 85%;
   margin: auto;
   display: flex;
@@ -7,11 +7,11 @@
   margin-top: 15px;
 }
 
-.imgCard{
+.imgCard {
   width: 220px;
 }
 
-img{
+img {
   width: 90%;
   margin: auto;
   margin-top: 15px;
